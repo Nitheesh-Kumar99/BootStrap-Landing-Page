@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.wimg {
+  width: 70px;
+}
+
+.title {
+  color: gray !important;
+}
+.lftimg {
+  width: 1066px;
+}
+.readmore {
+  border-radius: 2px !important;
+  padding-left: 30px !important;
+  padding-right: 30px !important;
+}
+.rightcontainer {
+  width: 400px !important;
+  padding: 25px !important;
+  color: aliceblue;
+  background-color: black;
+  margin-right: 50px !important;
+  margin-bottom: 25px;
+}
+.leftcontainer {
+  margin-left: 55px !important;
+}
+.bottomcontainer {
+  padding-top: 20px !important;
+}
+.rightcontent {
+  padding-left: 50px !important;
+  width: 600px !important;
+}
+.leftcontent {
+  width: 400px !important;
+}
+h2 {
+  color: goldenrod !important;
+}
+hr {
+  border: 2px solid gainsboro !important;
+}
+.description {
+  color: gainsboro;
+}
+p {
+  color: gray;
+}
